@@ -1,6 +1,6 @@
 # **专业版(1.3.1)**
 
-[video(video-aShkIn2C-1750899917719)(type-csdn)(url-https://live.csdn.net/v/embed/482810)(image-https://i-blog.csdnimg.cn/direct/6a50941a521b4dc190b2dc469ea14c0c.png)(title-鼠标连点器官方教学视频)]
+使用教程在线观看地址: https://live.csdn.net/v/embed/482810
 
 ## 简介
 这是一个可以帮助用户自动完成重复的鼠标点击任务，提高工作效率，减少手动操作的疲劳。
