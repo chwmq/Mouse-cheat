@@ -15,7 +15,7 @@
 
 ## 贡献指南
 **我们欢迎任何形式的贡献，包括代码、文档改进、bug报告等。**
-- 报告问题：请使用邮箱[chwmqwork@outlook.com]，或小红书[办公利器-鼠标连点器](https://www.xiaohongshu.com/discovery/item/676fc7db000000001301b86e?source=webshare&xhsshare=pc_web&xsec_token=ABlv19iGUJn8gwjiTx0OuIObY3UmlduxF3ty-W-d6EmWs=&xsec_source=pc_share)
+- 报告问题：请使用邮箱[chwmqwork@outlook.com]。
 
 ## 开发者
 - 开发者：[chwmq]
@@ -28,7 +28,7 @@
 - 邮箱：chwmqwork@outlook.com
 
 ## 常见问题解答（FAQ）
-为什么鼠标连点器停止工作了？
+为什么鼠标连点器3.0停止工作了？
 
 **`可能是窗口没有最大化`**
 
